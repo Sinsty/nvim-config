@@ -37,6 +37,6 @@ hi LineNr guifg=#999999 ctermfg=8
 
 
 lua << EOF
-	require('lua.lsp')
+	require('lsp')
 EOF
 
